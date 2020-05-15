@@ -1,0 +1,71 @@
+#portrait{
+    border: 2px solid black;
+    border-radius: 10%;
+    transform: rotate(90deg);
+    width: 150px;
+    height: 150xpx
+}
+#address{
+    font-style: italic;
+    font-size: medium;
+}
+#navbar{
+    background-color:black;
+    width: 100%;
+    margin: 0;
+}
+#footer{
+    background-color:black;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+.col-sm-2{
+    border: 2px transparent;
+    border-radius: 1%;
+    background-color: lightsteelblue;
+}
+.col-sm-5{
+    background-color: ivory;
+}
+.col-sm-10{
+    background-color: ivory;
+}
+a{
+    color:white;
+    background-color: transparent;
+    font-size: medium; 
+    font-style: italic;
+    margin-left: 150px;
+}
+a:hover{
+    color: lightsteelblue;
+    background-color: transparent;
+    font-size: medium; 
+    font-style: italic;
+    margin-left: 150px;
+}
+#resume{
+    color:black;
+    background-color: transparent;
+    font-size: medium; 
+    margin-left: 0;
+}
+#email{
+    color:black;
+    background-color: transparent;
+    font-size: medium; 
+    font-style: italic;
+    margin-left: 0;
+}
+h6{
+    font-size: x-small;
+    font-family: sans-serif;
+    font-style: italic;
+}
+.container{
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
