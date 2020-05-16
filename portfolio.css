@@ -5,6 +5,20 @@
     width: 150px;
     height: 150xpx
 }
+.pic{
+    border-radius: 10%;
+}
+.pic200{
+    width:200px; 
+    height:200px; 
+    border-radius: 10%;
+}
+.pic200-rotate{
+    transform:rotate(90deg); 
+    width:200px; 
+    height:200px; 
+    border-radius: 10%;
+}
 #address{
     font-style: italic;
     font-size: medium;
@@ -13,6 +27,13 @@
     background-color:black;
     width: 100%;
     margin: 0;
+}
+#banner{
+    width:100%; 
+    height:200px;
+}
+#bodyrow{
+    height: 1000px;
 }
 #footer{
     background-color:black;
@@ -24,6 +45,7 @@
     border: 2px transparent;
     border-radius: 1%;
     background-color: lightsteelblue;
+    bottom: 0;
 }
 .col-sm-5{
     background-color: ivory;
